@@ -4,7 +4,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const REVIEW =
-  "One star: the can opener works for him now, and my dinner arrives whenever he remembers.";
+  "One star: he stares at a glowing rectangle all day, then calls me needy.";
 
 const OUT_DIR = "/output";
 const OUT_FILE = `${OUT_DIR}/entry.txt`;
